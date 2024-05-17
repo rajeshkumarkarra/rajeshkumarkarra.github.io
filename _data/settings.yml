@@ -4,6 +4,7 @@ menu:
 - {name: 'Teaching', url: '/teaching'}
 - {name: 'Courses', url: '/courses'}
 - {name: 'My Research Group', url: '/myResearchGroup'}
+- {name: 'My Reading Group', url: '/https://theo-physics.github.io/'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
