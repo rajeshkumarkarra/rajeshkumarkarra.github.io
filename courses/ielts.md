@@ -3,8 +3,10 @@ layout: page
 title: "IELTS"
 ---
 
-<p>I recently gave IELTS Academic on 10th October 2020. I got an overall 8.0 band with L-9.0, R-8.5, W-6.5, S-7.0. I prepared the Listening and Reading Section by practicing timed mock tests for each section everyday for one month or so from the [Cambridge IELTS Book](https://drive.google.com/drive/folders/17viEpxn-tctdVfh8XqdnfPOuEONc62lJ?usp=sharing) [1](https://practicepteonline.com/cambridge-ielts-1-13-tests/) [2](https://practicepteonline.com/official-ielts-18-test/)[3](https://practicepteonline.com/) (available on Amazon).
 
+I recently gave IELTS Academic on 10th October 2020. I got an overall 8.0 band with L-9.0, R-8.5, W-6.5, S-7.0. I prepared the Listening and Reading Section by practicing timed mock tests for each section everyday for one month or so from the [Cambridge IELTS Book](https://drive.google.com/drive/folders/17viEpxn-tctdVfh8XqdnfPOuEONc62lJ?usp=sharing) [1](https://practicepteonline.com/cambridge-ielts-1-13-tests/) [2](https://practicepteonline.com/official-ielts-18-test/)[3](https://practicepteonline.com/) (available on Amazon).
+
+[Cambridge IELTS Book](https://drive.google.com/drive/folders/17viEpxn-tctdVfh8XqdnfPOuEONc62lJ?usp=sharing)
 And, for the writing section, I referred to this website called IELTSJacky, a very useful site for writing section.
 
 [IELTSLiz's](https://ieltsliz.com/) website and [YouTube channel](https://www.youtube.com/@ieltsliz/playlists) are also very good resources. Please watch all her videos.
@@ -20,7 +22,7 @@ Important:
 
 Please don't memorize answers.
 Be natural. And, remember that IELTS is a test of your language not your knowledge. So, if you are asked about something that you have never heard of or know nothing about, don't be scared.
-Refer to this YT Channel: [E2 Learning for Speaking](https://www.youtube.com/channel/UCglDIsg_Z9mE2oT9hsrbzFA), they have this PPF method that would help a lot in Part 2 Speaking. Don't forget to watch that video. It's very important.</p>
+Refer to this YT Channel: [E2 Learning for Speaking](https://www.youtube.com/channel/UCglDIsg_Z9mE2oT9hsrbzFA), they have this PPF method that would help a lot in Part 2 Speaking. Don't forget to watch that video. It's very important.
 
 #### Course Information
 
