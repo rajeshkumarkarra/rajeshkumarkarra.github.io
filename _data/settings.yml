@@ -4,6 +4,7 @@ menu:
 - {name: 'Teaching', url: '/teaching'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
+- {name: 'Contact', url: '/contact'}
 
 social:
 - {icon: 'fab fa-github fa-3x', link: 'https://github.com/sarapv'}
