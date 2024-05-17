@@ -1,0 +1,26 @@
+<div class="row g-5 mb-5">
+  <div>
+    {% if page.title == "Home" %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Last news</h3>
+      {% for item_news in site.data.news %} 
+      <ul>
+        {% if item_news.last == "1" %}
+        <li> {{ item_news.message }} </li>
+        {% endif %}      
+      </ul>
+      {% endfor %}
+        <p>
+          <u>
+            <a class="me-3 py-2" href="{{ site.github.url }}/news">All news</a>
+          </u>
+        </p>
+    {% else %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">News</h3>
+      {% for item_news in site.data.news %} 
+      <ul>
+        <li> {{ item_news.message }} </li>      
+      </ul>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
