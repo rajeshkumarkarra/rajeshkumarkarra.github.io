@@ -14,6 +14,7 @@ courses:
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 - {name: 'IELTS', url: 'ielts'}
+- {name: 'Self-teach Physics', url: 'self-teach_physics'}
 
 
 social:
