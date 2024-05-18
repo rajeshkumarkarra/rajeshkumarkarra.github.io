@@ -2,3 +2,10 @@ url: "https://rajeshkumarkarra.github.io" # the base hostname & protocol for you
 baseurl: "/" # the subpath of your site, e.g. /blog
 title: "Rajesh Karra" # the name of your site, e.g. ACME Corp.
 description: "Undergrad Student "
+
+
+# Layout
+
+
+mathjax: true
+search_enabled: true
