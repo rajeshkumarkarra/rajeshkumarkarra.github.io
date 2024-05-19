@@ -8,9 +8,10 @@ title: "B.Sc(M.P.CS)VI SEM"
 
 [Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
 
-#### Lecture Notes
+Lecture Notes
+<details>
+ <summary>English</summary>
 
-English:<br>
 Lecture Notes 1
 <iframe
 src="https://drive.google.com/file/d/1npiF4SP-AdVZPyeS_1iqRVDkCXtTgI8f/preview"
@@ -29,33 +30,48 @@ src="https://drive.google.com/file/d/1vIeWeQP5EUGOzhVBfjzUEeZ_1XuzVihM/preview"
 style="width:100%; height:800px;">
 </iframe> <br>
 
-Telugu: Lecture Notes - VI-SEM
+</details><br>
+
+<details>
+ <summary>Telugu</summary>
+Lecture Notes 
 <iframe 
 src="https://drive.google.com/file/d/1tmee5uKBJ2dLJ87-NBa1xZ9Rvpm8ti2a/preview"
 style="width:100%; height:800px;">
-</iframe> <br>
+</iframe>
+</details> <br>
 
 
-
-Physics:
+<details>
+  <summary>Physics</summary>
 Basic Electronics-Imp Questions
 <iframe
 src="https://drive.google.com/file/d/1VOjbilHGGTfVKTtc1VxvwAZDJ1XrvfmN/preview"
 style="width:100%; height:800px;">
-</iframe> <br>
+</iframe>
 
 Lecture Notes-Basic Electronics
 <iframe
 src="https://drive.google.com/file/d/1npwv8yHP8iA8-XU4D9p9ZMUqIutuPf_K/preview" 
 style="width:100%; height:800px;">
 </iframe> <br>
+</details>
 
-Computer Science
+ <br>
+
+
+<details>
+  <summary>Computer Science</summary>
+Lecture Notes
 <iframe 
 src="https://drive.google.com/file/d/1ZIso_CD4uQd8akOmC8hmmTT2_8GUC1Iu/preview" 
 style="width:100%; height:800px;">
 
-</iframe> <br>
+</iframe>
+  
+</details>
+
+ <br>
 
 
 #### Homework
