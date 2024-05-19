@@ -70,7 +70,7 @@ style="width:100%; height:500px;">
 
 <details>
   <summary>Computer Science</summary>
-Lecture Notes
+Lecture Notes<br>
 <iframe 
 src="https://drive.google.com/file/d/1ZIso_CD4uQd8akOmC8hmmTT2_8GUC1Iu/preview" 
 style="width:100%; height:500px;">
