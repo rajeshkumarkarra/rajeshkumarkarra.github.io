@@ -1,11 +1,10 @@
-<!--
+
 ---
 layout: page
 title: "Theoretical Physics"
 mathjax: true
 categories: media
 ---
--->
 <details>
 <summary>Quantum Mechanics</summary>
 [Quantum Mechanics](/courses/quantum-mechanics/quantum-mechanics.md)
