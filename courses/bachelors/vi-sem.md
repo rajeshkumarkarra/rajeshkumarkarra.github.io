@@ -17,13 +17,13 @@ Lecture Notes 1
 <iframe
 src="https://drive.google.com/file/d/1npiF4SP-AdVZPyeS_1iqRVDkCXtTgI8f/preview"
 style="width:100%; height:500px;">
-</iframe> 
+</iframe> <br>
 
 Lecture Notes 2
 <iframe
 src="https://drive.google.com/file/d/1QlhDnNzkEK1pSVZaVQ06GGqyfgBgFNsa/preview"
 style="width:100%; height:500px;">
-</iframe> 
+</iframe> <br>
 
 Lecture Notes 3
 <iframe
