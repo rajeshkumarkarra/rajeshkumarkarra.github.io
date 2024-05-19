@@ -5,7 +5,7 @@ mathjax: true
 categories: media
 ---
 
-[Quantum Mechanics](/courses/quantum-mechanics/quantum-mechanics.md)
+[Quantum Mechanics](/quantum-mechanics/quantum-mechanics.md)
 
 
 
