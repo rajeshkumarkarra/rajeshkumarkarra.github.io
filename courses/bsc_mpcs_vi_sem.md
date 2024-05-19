@@ -6,7 +6,6 @@ title: "B.Sc(M.P.CS)VI SEM"
 
 #### Course Information
 
-[Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
 
 # Lecture Notes
 <details>
@@ -74,20 +73,3 @@ style="width:100%; height:500px;">
  <br>
 
 
-#### Homework
-
-[Homework 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf)
