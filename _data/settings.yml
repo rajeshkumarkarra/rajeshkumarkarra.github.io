@@ -15,6 +15,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 - {name: 'IELTS', url: 'ielts'}
 - {name: 'Self-teach Physics', url: 'self-teach_physics'}
+- {name: 'B.Sc(M.P.CS)VI SEM', url: 'bsc_mpcs_vi_sem'}
 
 
 social:
