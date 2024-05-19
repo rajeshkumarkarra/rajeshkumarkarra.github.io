@@ -8,7 +8,7 @@ title: "B.Sc(M.P.CS)VI SEM"
 
 [Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
 
-Lecture Notes
+# Lecture Notes
 <details>
  <summary>English</summary>
 
