@@ -5,100 +5,13 @@ mathjax: true
 categories: media
 ---
 
-[Quantum Mechanics](/quantum-mechanics/quantum-mechanics.md)
+[Quantum Mechanics](/theoretical-physics/quantum-mechanics/quantum-mechanics.md)
 
+[Stellar Structurs](/theoretical-physics/stellar-structures/stellar-structures.md)
 
+[Vector Calculus](/theoretical-physics/vector-calculus/vector-calculus.md)
 
-
-[Stellar Structurs](/quantum-mechanics/Stellar-Structures.md)
-
-
-
-</details>
-
-
-<details>
-<summary>Vector-Calculus</summary>
-#### Course Information
-
-[Course Outline](/courses/vector-calculus/Sample_Course_Outline.pdf)
-
-#### Lecture Notes
-
-[Lecture 1](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-[Lecture 2](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-[Lecture 3](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-#### Homework
-
-[Homework 1](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/vector-calculus/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/vector-calculus/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/vector-calculus/Sample_Exam.pdf)
-
-</details>
-
-<details>
-<summary>Self-teach Physics</summary>
-
-
-
-
-### Self-teach Physics
-<iframe 
-src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true"
-style="width:100%; height:800px;">
-
-</iframe> 
-
-[Self-teach Physics](https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub)
-
-#### Course Information
-
-[Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
-
-#### Lecture Notes
-
-[Lecture 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Lecture 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Lecture 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Homework
-
-[Homework 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf)
-
-
-</details>
-
+[Self-teach Physics](/theoretical-physics/self-teach_physics/self-teach_physics.md)
 
 
 
