@@ -1,6 +1,6 @@
 ---
 layout: courses 
 title: "Courses"
-mathjax: true
-categories: media
+# mathjax: true
+# categories: media
 ---
