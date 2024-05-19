@@ -11,8 +11,11 @@ menu:
 
 courses:
 - {name: 'Theoretical Physics', url: 'theoreticalPhysics'}
-- {name: 'IELTS', url: 'ielts'}
-- {name: 'B.Sc(M.P.CS)VI SEM', url: 'bsc_mpcs_vi_sem'}
+- {name: 'Computer Science', url: 'computer-science'}
+- {name: 'B.Sc(M.P.CS)VI SEM', url: 'bsc-mpcs'}
+- {name: 'Essentials', url: 'essentials'}
+- {name: 'Gists', url: 'gists'}
+- {name: 'Spotlights', url: 'spotlights'}
 
 
 social:
