@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Quantum Mechanics"
+title: "Theoretical Physics"
 ---
 <details>
 <summary>Quantum Mechanics</summary>
@@ -37,9 +37,3 @@ title: "Quantum Mechanics"
 
 </details>
 
----
-layout: page
-title: "Quantum Mechanics"
----
-
-hi
