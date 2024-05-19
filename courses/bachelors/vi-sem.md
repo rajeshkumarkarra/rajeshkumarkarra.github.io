@@ -4,7 +4,7 @@ title: "B.Sc(M.P.CS)VI SEM"
 ---
 
 
-#### Course Information
+#### Course Information [Main menu](/courses/)
 
 
 # Lecture Notes
