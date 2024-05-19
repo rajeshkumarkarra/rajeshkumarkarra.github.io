@@ -9,7 +9,7 @@ mathjax: true
  
 ### Self-teach Physics
 <iframe 
-src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true">
+src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true"
 style="width:100%; height:300px;"
 
 </iframe> 
