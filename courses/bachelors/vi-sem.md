@@ -2,7 +2,7 @@
 layout: page
 title: "B.Sc(M.P.CS)VI SEM"
 ---
-                                                                                                                                     [Main menu](/courses/)
+                                                                                                      [Main menu](/courses/)
 
 #### Course Information 
                                                                                                       
