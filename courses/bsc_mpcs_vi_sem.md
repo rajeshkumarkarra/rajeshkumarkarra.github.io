@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "B.Sc(M.P.CS) VI-SEM"
+title: "BSC-VI-SEM"
 ---
 
 
