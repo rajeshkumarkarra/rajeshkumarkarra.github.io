@@ -5,5 +5,5 @@ mathjax: true
 categories: media
 ---
 
-[B.SC_M.P.CS_VI-SEM](/bachelors/vi-sem.md)
+[B.SC(M.P.CS)_VI-SEM](/bachelors/vi-sem.md)
 
