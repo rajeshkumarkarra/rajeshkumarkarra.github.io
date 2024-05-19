@@ -5,4 +5,4 @@ mathjax: true
 categories: media
 ---
 
-[IELTS](/essentials/ielts.md)
+[IELTS](/Essentials/ielts.md)
