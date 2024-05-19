@@ -2,11 +2,12 @@
 layout: page
 title: "Self-teach Physics"
 mathjax: true
+categories: media
 ---
 
 
 
- 
+
 ### Self-teach Physics
 <iframe 
 src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true"
