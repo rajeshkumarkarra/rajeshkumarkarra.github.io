@@ -5,7 +5,7 @@ mathjax: true
 categories: media
 ---
 
-[Quantum Mechanics](https://github.com/rajeshkumarkarra/rajeshkumarkarra.github.io/blob/gh-pages/courses%2Fquantum-mechanics%2Fquantum-mechanics.md)
+[Quantum Mechanics](/courses/quantum-mechanics/quantum-mechanics.md)
 
 
 
