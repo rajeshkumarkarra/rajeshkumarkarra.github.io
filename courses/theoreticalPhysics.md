@@ -6,21 +6,21 @@ categories: media
 ---
 <details>
 <summary>Learn Physics and Mathematics at MIT OCW</summary>
-[MIT OCW](https://ocw.mit.edu/)
+[MIT OCW](https://ocw.mit.edu/)<br>
 
 <iframe width="613" height="408" src="https://www.youtube.com/embed/0aAEamhJHUI" title="MIT OpenCourseWare at 20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Since 2001, MIT OpenCourseWare has been creating new opportunities for millions of learners and educators, sharing Open Educational Resources (OER) from MIT and helping to lead a global revolution in free access to knowledge.
+Since 2001, MIT OpenCourseWare has been creating new opportunities for millions of learners and educators, sharing Open Educational Resources (OER) from MIT and helping to lead a global revolution in free access to knowledge.<br>
 
-MIT OpenCourseWare continues to build on this foundation. With a new web platform, ever-growing content, and collaborations across the vibrant open education ecosystem, we're creating a world of more equitable and inclusive education for all.
+MIT OpenCourseWare continues to build on this foundation. With a new web platform, ever-growing content, and collaborations across the vibrant open education ecosystem, we're creating a world of more equitable and inclusive education for all.<br>
 
-MIT OpenCourseWare is a free and open collection of material from thousands of MIT courses, covering the entire MIT curriculum.
+MIT OpenCourseWare is a free and open collection of material from thousands of MIT courses, covering the entire MIT curriculum.<br>
 
-Knowledge is your reward. Use OCW to guide your own life-long learning, or to teach others. MIT does not offer credit or certification to users of OCW – and asks for nothing in return.
+Knowledge is your reward. Use OCW to guide your own life-long learning, or to teach others. MIT does not offer credit or certification to users of OCW – and asks for nothing in return.<br>
 
-No enrollment or registration. Freely browse and use OCW materials at your own pace. There's no signup, and no start or end dates.
+No enrollment or registration. Freely browse and use OCW materials at your own pace. There's no signup, and no start or end dates.<br>
 
-Made for sharing. Download files for later. Send to friends and colleagues. Modify, remix, and reuse (just remember to cite OCW as the source.)
+Made for sharing. Download files for later. Send to friends and colleagues. Modify, remix, and reuse (just remember to cite OCW as the source.)<br>
 
 </details>
 
