@@ -47,6 +47,16 @@ categories: media
 </body>
 </html>
 
+### **The Math Sorcerer**
+
+<html>
+<header>
+</header>
+<body>
+<embed src="https://freemathvids.com/" style="width:100%; height: 400px;">
+</body>
+</html>
+
 
 
 ### **Self-teach PHysics**
