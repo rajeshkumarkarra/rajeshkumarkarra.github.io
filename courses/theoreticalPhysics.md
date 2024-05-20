@@ -4,13 +4,21 @@ title: "Theoretical Physics"
 mathjax: true
 categories: media
 ---
-<details>
-<summary>Learn Physics and Mathematics at MIT OCW</summary>
+
+Learn Physics and Mathematics at MIT OCW
+
+<html>
+<header>
+</header>
+<body>
+<embed src="https://ocw.mit.edu/" style="width:500px; height: 300px;">
+</body>
+</html>
 
 [MIT OCW](https://ocw.mit.edu/)
 
 
-</details>
+
 
 <details>
 <summary>Learn Physics and Mathematcs with 3Blue1Brown</summary>
