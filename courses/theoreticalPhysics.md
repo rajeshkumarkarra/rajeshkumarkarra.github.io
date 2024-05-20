@@ -15,7 +15,7 @@ Learn Physics and Mathematics at MIT OCW
 </body>
 </html>
 
-[MIT OCW](https://ocw.mit.edu/)
+
 
 
 
