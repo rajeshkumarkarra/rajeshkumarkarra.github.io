@@ -34,7 +34,7 @@ Download files for later. Send to friends and colleagues. Modify, remix, and reu
 <details>
 <summary>Learn Physics and Mathematcs with 3Blue1Brown</summary>
 
-# [3Blue1Brown](https://www.3blue1brown.com/)
+[3Blue1Brown](https://www.3blue1brown.com/)
 <br>
 
 3blue1brown, or 3b1b for short, is primarily a YouTube channel about discovery and creativity in math, with an emphasis on visualizations. On this site, you can find written versions of many of these lessons, often with more interactive elements sprinkled in.
@@ -45,6 +45,12 @@ Other lessons are more purely playful, exploring puzzles and problems with some 
 
 The first category aims to motivate math by its usefulness, and the second aims to motivate math as an art form, though of course, the line dividing these two is easily blurred.
 
+</details>
+
+<details>
+<summary>Learn Science and Mathematics at Brilliant</summary>
+
+# [Brilliant](https://brilliant.org/home/)
 </details>
 
 [Quantum Mechanics](/theoretical-physics/quantum-mechanics/quantum-mechanics.md)
