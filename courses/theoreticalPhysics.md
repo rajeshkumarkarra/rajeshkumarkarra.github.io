@@ -6,9 +6,10 @@ categories: media
 ---
 <details>
 <summary>Learn Physics and Mathematics at MIT OCW</summary>
+
 [MIT OCW](https://ocw.mit.edu/)<br>
 
-<iframe width="613" height="408" src="https://www.youtube.com/embed/0aAEamhJHUI" title="MIT OpenCourseWare at 20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="613" height="408" src="https://www.youtube.com/embed/0aAEamhJHUI" title="MIT OpenCourseWare at 20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 Since 2001, MIT OpenCourseWare has been creating new opportunities for millions of learners and educators, sharing Open Educational Resources (OER) from MIT and helping to lead a global revolution in free access to knowledge.<br>
 
