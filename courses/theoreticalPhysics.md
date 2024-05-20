@@ -7,7 +7,9 @@ categories: media
 <details>
 <summary>Learn Physics and Mathematics at MIT OCW</summary>
 
-[MIT OCW](https://ocw.mit.edu/)<br>
+# [MIT OCW](https://ocw.mit.edu/)
+
+<br>
 
 <iframe width="613" height="408" src="https://www.youtube.com/embed/0aAEamhJHUI" title="MIT OpenCourseWare at 20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
@@ -29,6 +31,12 @@ Download files for later. Send to friends and colleagues. Modify, remix, and reu
 
 </details>
 
+<details>
+<summary>Learn Physics and Mathematcs with 3Blue1Brown</summary>
+
+# [3Blue1Brown](https://www.3blue1brown.com/)
+
+</details>
 
 [Quantum Mechanics](/theoretical-physics/quantum-mechanics/quantum-mechanics.md)
 
