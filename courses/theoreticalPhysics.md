@@ -38,6 +38,7 @@ categories: media
 </html>
 
 ### **Learn Math & Science at Khan Academy**
+[https://www.khanacademy.org/](https://www.khanacademy.org/)
 <html>
 <header>
 </header>
