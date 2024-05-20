@@ -5,7 +5,7 @@ mathjax: true
 categories: media
 ---
 
-### Learn Physics and Mathematics at MIT OCW
+### **Learn Physics and Mathematics at MIT OCW**
 
 <html>
 <header>
@@ -17,7 +17,7 @@ categories: media
 
 
 
-### Learn Physics and Mathematcs with 3Blue1Brown
+### **Learn Physics and Mathematcs with 3Blue1Brown**
 <html>
 <header>
 </header>
@@ -28,7 +28,7 @@ categories: media
 
 
 
-### Learn Science and Mathematics at Brilliant
+### **Learn Science and Mathematics at Brilliant**
 <html>
 <header>
 </header>
@@ -37,7 +37,7 @@ categories: media
 </body>
 </html>
 
-<mark>Learn Math & Science at Khan Academy</mark>
+### **Learn Math & Science at Khan Academy**
 <html>
 <header>
 </header>
@@ -48,7 +48,7 @@ categories: media
 
 
 
-### Self-teach PHysics
+### **Self-teach PHysics**
 
 <iframe 
 src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true"
