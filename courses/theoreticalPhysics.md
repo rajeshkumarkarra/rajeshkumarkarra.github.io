@@ -17,9 +17,6 @@ categories: media
 
 
 
-
-
-
 # Learn Physics and Mathematcs with 3Blue1Brown
 <html>
 <header>
@@ -31,18 +28,33 @@ categories: media
 
 
 
-<details>
-<summary>Learn Science and Mathematics at Brilliant</summary>
+# Learn Science and Mathematics at Brilliant
+<html>
+<header>
+</header>
+<body>
+<embed src="https://brilliant.org/home/" style="width:300px; height: 500px;">
+</body>
+</html>
 
-[Brilliant](https://brilliant.org/home/)
-</details>
+# Learn Math & Science at Khan Academy
+<html>
+<header>
+</header>
+<body>
+<embed src="https://www.khanacademy.org/" style="width:300px; height: 500px;">
+</body>
+</html>
 
-<details>
-<summary>Self-teach PHysics</summary>
 
-[Self-teach Physics](/theoretical-physics/self-teach_physics/self-teach_physics.md)
 
-</details>
+# Self-teach PHysics
+
+<iframe 
+src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true"
+style="width:100%; height:800px;">
+
+</iframe> 
 
 [Quantum Mechanics](/theoretical-physics/quantum-mechanics/quantum-mechanics.md)
 
