@@ -5,13 +5,13 @@ mathjax: true
 categories: media
 ---
 
-Learn Physics and Mathematics at MIT OCW
+# Learn Physics and Mathematics at MIT OCW
 
 <html>
 <header>
 </header>
 <body>
-<embed src="https://ocw.mit.edu/" style="width:500px; height: 300px;">
+<embed src="https://ocw.mit.edu/" style="width:300px; height: 500px;">
 </body>
 </html>
 
@@ -20,12 +20,16 @@ Learn Physics and Mathematics at MIT OCW
 
 
 
-<details>
-<summary>Learn Physics and Mathematcs with 3Blue1Brown</summary>
+# Learn Physics and Mathematcs with 3Blue1Brown
+<html>
+<header>
+</header>
+<body>
+<embed src="https://www.3blue1brown.com/" style="width:300px; height: 500px;">
+</body>
+</html>
 
-[3Blue1Brown](https://www.3blue1brown.com/)
 
-</details>
 
 <details>
 <summary>Learn Science and Mathematics at Brilliant</summary>
