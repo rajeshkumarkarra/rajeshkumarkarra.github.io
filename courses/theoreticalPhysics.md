@@ -42,7 +42,7 @@ categories: media
 <header>
 </header>
 <body>
-<embed src="https://www.khanacademy.org/teacher/dashboard" style="width:100%; height: 400px;">
+<embed src="https://www.khanacademy.org/" style="width:100%; height: 400px;">
 </body>
 </html>
 
