@@ -15,13 +15,17 @@ Since 2001, MIT OpenCourseWare has been creating new opportunities for millions 
 
 MIT OpenCourseWare continues to build on this foundation. With a new web platform, ever-growing content, and collaborations across the vibrant open education ecosystem, we're creating a world of more equitable and inclusive education for all.<br>
 
-MIT OpenCourseWare is a free and open collection of material from thousands of MIT courses, covering the entire MIT curriculum.<br>
+#### MIT OpenCourseWare 
+is a free and open collection of material from thousands of MIT courses, covering the entire MIT curriculum.<br>
 
-Knowledge is your reward. Use OCW to guide your own life-long learning, or to teach others. MIT does not offer credit or certification to users of OCW – and asks for nothing in return.<br>
+#### Knowledge is your reward. 
+Use OCW to guide your own life-long learning, or to teach others. MIT does not offer credit or certification to users of OCW – and asks for nothing in return.<br>
 
-No enrollment or registration. Freely browse and use OCW materials at your own pace. There's no signup, and no start or end dates.<br>
+#### No enrollment or registration. 
+Freely browse and use OCW materials at your own pace. There's no signup, and no start or end dates.<br>
 
-Made for sharing. Download files for later. Send to friends and colleagues. Modify, remix, and reuse (just remember to cite OCW as the source.)<br>
+#### Made for sharing. 
+Download files for later. Send to friends and colleagues. Modify, remix, and reuse (just remember to cite OCW as the source.)<br>
 
 </details>
 
