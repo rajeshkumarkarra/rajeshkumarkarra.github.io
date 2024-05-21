@@ -25,18 +25,17 @@ style="width:100%; height: 400px;">
 ### **Learn Machine Learning with KAGGLE**
 <a href="https://www.kaggle.com/">Visit Kaggle!</a>
 
-<br>
 
-
+### **Delve deeper into ML uing Google Colab**
 <a href="https://colab.research.google.com/">Visit Google Colab!</a>
 
-<br>
+
 
 ### **ML crash course offered by GOOGLE**
 
 <a href="https://developers.google.com/machine-learning/crash-course">Visit Google ML crash course!</a>
 
-<br>
+
 
 
 ### **Machine Learning ROAD MAP**
