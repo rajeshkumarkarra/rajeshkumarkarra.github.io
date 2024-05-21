@@ -15,7 +15,7 @@ categories: media
 </body>
 </html>
 
-
+<br>
 
 ### **Learn Physics and Mathematcs with 3Blue1Brown**
 <html>
@@ -26,7 +26,7 @@ categories: media
 </body>
 </html>
 
-
+<br>
 
 ### **Learn Science and Mathematics at Brilliant**
 <html>
@@ -36,17 +36,12 @@ categories: media
 <embed src="https://brilliant.org/home/" style="width:100%; height: 400px;">
 </body>
 </html>
+<br>
 
 ### **Learn Math & Science at Khan Academy**
-[https://www.khanacademy.org/](https://www.khanacademy.org/)
-<html>
-<header>
-</header>
-<body>
-<embed src="https://www.khanacademy.org/" style="width:100%; height: 400px;">
-</body>
-</html>
 
+<a href="https://www.khanacademy.org/">Visit Khan Academy!</a>
+<br>
 ### **The Math Sorcerer**
 
 <html>
@@ -57,7 +52,7 @@ categories: media
 </body>
 </html>
 
-
+<br>
 
 ### **Self-teach PHysics**
 
@@ -66,6 +61,7 @@ src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2
 style="width:100%; height:400px;">
 
 </iframe> 
+<br>
 
 [Quantum Mechanics](/theoretical-physics/quantum-mechanics/quantum-mechanics.md)
 
