@@ -37,6 +37,10 @@ style="width:100%; height: 400px;">
 <iframe src="https://www.kaggle.com/" width="100%" height="400"></iframe>
 <br>
 
+### **Learn Machine Learning with KAGGLE**
+<a href="https://www.kaggle.com/">Visit Kaggle!</a>
+<br>
+
 
 ### **Dvelve deeper into AI using GOOGLE COLAB**
 <html>
