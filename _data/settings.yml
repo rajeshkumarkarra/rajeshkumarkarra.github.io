@@ -12,10 +12,11 @@ menu:
 courses:
 - {name: 'Theoretical Physics', url: 'theoreticalPhysics'}
 - {name: 'Computer Science', url: 'computer-science'}
-- {name: 'B.Sc(M.P.CS)VI SEM', url: 'bsc-mpcs'}
+- {name: 'Aritificial Intelligence', url: 'ai'}
 - {name: 'Essentials', url: 'essentials'}
 - {name: 'Gists', url: 'gists'}
 - {name: 'Spotlights', url: 'spotlights'}
+- {name: 'B.Sc(M.P.CS)VI SEM', url: 'bsc-mpcs'}
 
 
 social:
