@@ -69,8 +69,7 @@ style="width:100%; height: 400px;">
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/gl7LB1nZroo?si=Ub0mL4oQBM2Io6Hz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 ### **How to learn English step-by-step OR your quickest way to fluency**
-<a href="[https://www.kaggle.com/](https://preply.com/en/blog/learn-english-fast-and-easy/)">Visit Preply!</a><br>
+<a href="[https://preply.com/](https://preply.com/en/blog/learn-english-fast-and-easy/)">Visit Preply!</a><br>
 
 ### **The Complete Beginner's Guide to Learning English on YouTube**
-<iframe width="100%" height="400px" src="https://www.linkedin.com/pulse/complete-beginners-guide-learning-english-youtube-shakil-ahmad-ckpvf" allowfullscreen></iframe>
-
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/pulse/complete-beginners-guide-learning-english-youtube-shakil-ahmad-ckpvf)">Visit LinkedIn!</a>
