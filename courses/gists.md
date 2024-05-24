@@ -4,5 +4,5 @@ title: "GISTS"
 mathjax: true
 categories: media
 ---
-
-<!--[B.Sc (M.P.CS) - VI_SEM](/B.Sc(M.P.CS)@HMV/bsc_mpcs_vi_sem.md)-->
+# Complex Arithmetic
+<script src="https://gist.github.com/rajeshkumarkarra/a37a006edd1c5f2963a74f85d0ebdd9e.js"></script>
