@@ -44,6 +44,7 @@ style="width:100%; height: 400px;">
         <a href = "Essentials/ielts.md" target ="_blank">
           <h1>Learning English is Essential</h1>
           <p>In today's globalized world, English has become the lingua franca of international communication. It is the language of business, science, technology, and diplomacy. As a result, learning English has become essential for anyone who wants to succeed in the global marketplace.</p>
+</summary>
 
 <p>There are many benefits to learning English. For one thing, it opens up a world of opportunities. English speakers have access to a wider range of jobs, educational opportunities, and cultural experiences. Additionally, learning English can help you stay informed about current events and connect with people from all over the world.</p>
 
@@ -61,7 +62,7 @@ style="width:100%; height: 400px;">
 <p>Learning English is an investment in your future. It is a skill that will benefit you for the rest of your life. So if you are thinking about learning English, I encourage you to get started today.</p>
 
         
-</summary>
+
 
 
 
@@ -136,6 +137,7 @@ style="width:100%; height: 400px;">
         <h1>How to Learn English Step-by-Step: A Beginner's Guide</h1>
 
 <p>Learning English can seem daunting, but with the right approach and consistent effort, anyone can achieve fluency. Here's a step-by-step guide to help you get started:</p>
+</summary>
 
 <h2>Step 1: Build a Strong Foundation</h2>
 
@@ -196,7 +198,7 @@ style="width:100%; height: 400px;">
 
 <p>Remember, fluency in English is a journey, not a destination. Keep practicing, immerse yourself in the language, and don't give up. With dedication and perseverance, you'll reach your fluency goals.</p>
 
-</summary>
+
 
 
 
