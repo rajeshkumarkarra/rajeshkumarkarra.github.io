@@ -10,7 +10,7 @@ categories: media
  
 
 
-  https://www.youtube.com/watch?v=A86oTxKCdIM&ab_channel=Arno
+  
 <p>The Duolingo English Test (DET) is a standardized English proficiency exam designed to assess non-native English speakers' English language skills. It is an online, computer-adaptive test that evaluates reading, writing, speaking, and listening abilities.</p>
 </summary>
 <h2>Key Features of the DET:</h2>
