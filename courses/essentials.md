@@ -4,7 +4,38 @@ title: "ESSENTIALS"
 mathjax: true
 categories: media
 ---
+ <details>
+      <summary>
+        <a href = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQumU8mINc89jTEgvGwjUROvWORnzD9Qq2PXCZuVIOzqxTHoq4h1jnh_gO9WKNHscniqz4onTLCcxeG/pubhtml" target ="_blank">
+          Boost Your Speaking Skills with Powerful Vocabulary
 
+        <h1>Level Up Your Speaking: Essential Vocabulary Terms</h1>
+  <p>Refining your vocabulary is a key step to becoming a more articulate speaker. Using a broader range of words allows you to express yourself with greater nuance, precision, and fluency. Here are some valuable vocabulary terms to consider adding to your communication toolbox:</p>
+
+  <ul>
+    <li><strong>Eloquence (noun):</strong> The ability to speak fluently and persuasively.</li>
+    <li><strong>Articulate (adjective):</strong> Able to express oneself clearly and effectively.</li>
+    <li><strong>Nuance (noun):</strong> A subtle difference in meaning or expression.</li>
+    <li><strong>Concise (adjective):</strong> Brief and to the point.</li>
+    <li><strong>Verbose (adjective):</strong> Using more words than necessary.</li>
+    <li><strong>Elocution (noun):</strong> The art of clear and distinct speech.</li>
+    <li><strong>Enunciate (verb):</strong> To pronounce words clearly and distinctly.</li>
+    <li><strong>Incisive (adjective):</strong> Sharp and penetrating, especially in speech or writing.</li>
+    <li><strong>Pithy (adjective):</strong> Concise and meaningful.</li>
+  </ul>
+
+  <p>By incorporating these vocabulary terms into your speaking, you can elevate the depth, clarity, and sophistication of your communication. Remember, the essence of effective speaking lies not just in using fancy words, but in choosing the right words to convey your thoughts and ideas with precision.</p>
+<html>
+<header>
+</header>
+<body>
+<embed src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQumU8mINc89jTEgvGwjUROvWORnzD9Qq2PXCZuVIOzqxTHoq4h1jnh_gO9WKNHscniqz4onTLCcxeG/pubhtml" 
+style="width:100%; height: 400px;">
+</body>
+</html>
+
+      </summary>
+</details>
 
 [IELTS](/Essentials/ielts.md)
 
