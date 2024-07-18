@@ -44,7 +44,7 @@ style="width:100%; height: 400px;">
         <a href = "Essentials/ielts.md" target ="_blank">
           <h1>Learning English is Essential</h1>
           <p>In today's globalized world, English has become the lingua franca of international communication. It is the language of business, science, technology, and diplomacy. As a result, learning English has become essential for anyone who wants to succeed in the global marketplace.</p>
-</summary>
+
 
 <p>There are many benefits to learning English. For one thing, it opens up a world of opportunities. English speakers have access to a wider range of jobs, educational opportunities, and cultural experiences. Additionally, learning English can help you stay informed about current events and connect with people from all over the world.</p>
 
@@ -127,8 +127,12 @@ style="width:100%; height: 400px;">
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/gl7LB1nZroo?si=Ub0mL4oQBM2Io6Hz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+</summary>
 </details>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+
 
  <details>
       <summary>
@@ -137,7 +141,7 @@ style="width:100%; height: 400px;">
         
 
 <p>Learning English can seem daunting, but with the right approach and consistent effort, anyone can achieve fluency. Here's a step-by-step guide to help you get started:</p>
-</summary>
+
 
 <h2>Step 1: Build a Strong Foundation</h2>
 
@@ -207,5 +211,6 @@ style="width:100%; height: 400px;">
 
 ### **The Complete Beginner's Guide to Learning English on YouTube**
 <a href="[https://www.linkedin.com/](https://www.linkedin.com/pulse/complete-beginners-guide-learning-english-youtube-shakil-ahmad-ckpvf)">Visit LinkedIn!</a>
+</summary>
 </details>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
