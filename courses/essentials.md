@@ -134,7 +134,7 @@ style="width:100%; height: 400px;">
       <summary>
         <a href = "https://chatgpt.com/share/fe5a2f67-4acd-49ef-9122-63f50886b1f2" target ="_blank">
           <h1>How to learn English step-by-step OR your quickest way to fluency</h1>
-        <h1>How to Learn English Step-by-Step: A Beginner's Guide</h1>
+        
 
 <p>Learning English can seem daunting, but with the right approach and consistent effort, anyone can achieve fluency. Here's a step-by-step guide to help you get started:</p>
 </summary>
