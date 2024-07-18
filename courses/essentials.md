@@ -7,10 +7,11 @@ categories: media
  <details>
       <summary>
         <a href = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQumU8mINc89jTEgvGwjUROvWORnzD9Qq2PXCZuVIOzqxTHoq4h1jnh_gO9WKNHscniqz4onTLCcxeG/pubhtml" target ="_blank">
-          Boost Your Speaking Skills with Powerful Vocabulary
+          Boost Your Speaking Skills with Powerful Vocabulary</a>
 
-        <h1>Level Up Your Speaking: Essential Vocabulary Terms</h1>
+<h1>Level Up Your Speaking: Essential Vocabulary Terms</h1>
   <p>Refining your vocabulary is a key step to becoming a more articulate speaker. Using a broader range of words allows you to express yourself with greater nuance, precision, and fluency. Here are some valuable vocabulary terms to consider adding to your communication toolbox:</p>
+  </summary>
 
   <ul>
     <li><strong>Eloquence (noun):</strong> The ability to speak fluently and persuasively.</li>
@@ -34,7 +35,7 @@ style="width:100%; height: 400px;">
 </body>
 </html>
 
-</summary>
+
 </details>
 
 [IELTS](/Essentials/ielts.md)
