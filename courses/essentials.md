@@ -4,6 +4,7 @@ title: "ESSENTIALS"
 mathjax: true
 categories: media
 ---
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 <details>
  <summary>
 <h1>Duolingo English Test: A Comprehensive Review</h1>
@@ -56,16 +57,16 @@ categories: media
 <p>With preparation and practice, you can achieve a high score on the Duolingo English Test and open up new opportunities for yourself.</p>
 </details>
  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
- 
- 
+ <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------> 
  
  <details>
       <summary>
         <a href = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQumU8mINc89jTEgvGwjUROvWORnzD9Qq2PXCZuVIOzqxTHoq4h1jnh_gO9WKNHscniqz4onTLCcxeG/pubhtml" target ="_blank">
           <h1>Boost Your Speaking Skills with Powerful Vocabulary</h1></a>
 
-<h2>Level Up Your Speaking: Essential Vocabulary Terms</h2>
-  <p>Refining your vocabulary is a key step to becoming a more articulate speaker. Using a broader range of words allows you to express yourself with greater nuance, precision, and fluency. Here are some valuable vocabulary terms to consider adding to your communication toolbox:</p>
+
+  <p>Level Up Your Speaking: Essential Vocabulary Terms<br>
+   Refining your vocabulary is a key step to becoming a more articulate speaker. Using a broader range of words allows you to express yourself with greater nuance, precision, and fluency. Here are some valuable vocabulary terms to consider adding to your communication toolbox:</p>
   </summary>
 
   <ul>
@@ -90,10 +91,10 @@ style="width:100%; height: 400px;">
 </body>
 </html>
 
-
 </details>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
  <details>
       <summary>
         <a href = "Essentials/ielts.md" target ="_blank">
@@ -188,7 +189,7 @@ style="width:100%; height: 400px;">
 
 
 
-
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
  <details>
       <summary>
         <a href = "https://chatgpt.com/share/fe5a2f67-4acd-49ef-9122-63f50886b1f2" target ="_blank">
@@ -269,3 +270,4 @@ style="width:100%; height: 400px;">
 
 </details>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
