@@ -49,7 +49,7 @@ categories: media
   <li>Manage your time effectively during the exam.</li>
  <li><a href = "https://duolingo.goarno.io/" target ="_blank"> Practice with arno</a> </li>
  <li><a href = "https://goarno.io/" target ="_blank">Arno blog</a></li>
- <li><a href = "https://www.youtube.com/watch?v=A86oTxKCdIM&ab_channel=Arno"_blank"> Arno youtube</a></li>
+ <li><a href = "https://www.youtube.com/@ArnoLearning" target ="_blank"> Arno youtube</a></li>
 
 </ul>
 
