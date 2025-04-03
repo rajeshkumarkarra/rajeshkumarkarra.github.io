@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem "jekyll", "~> 3.10.0"
+
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
@@ -21,7 +22,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'jekyll-toc'
+    #gem 'jekyll-terser'
 
     gem 'classifier-reborn'  # used for content categorization during the build
     gem "github-pages", group: :jekyll_plugins

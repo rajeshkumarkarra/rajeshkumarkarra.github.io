@@ -417,7 +417,7 @@ DEPENDENCIES
   feedjira
   github-pages
   httparty
-  jekyll
+  jekyll (~> 3.10.0)
   jekyll-archives-v2
   jekyll-email-protect
   jekyll-feed
