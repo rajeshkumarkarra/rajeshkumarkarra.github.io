@@ -199,11 +199,12 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-title: My GitHub Pages Site
-description: >-
-  A simple site using Jekyll and GitHub Pages.
+title: My Jekyll Site
+description: A simple blog
 
 remote_theme: pages-themes/primer@v0.6.0
+theme: jekyll-theme-primer
+
 # Plug-ins
 plugins:
   - jekyll-toc

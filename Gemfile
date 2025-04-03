@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 3.10.0"
+#gem 'jekyll', '~> 4.2.0'
 
 
 # Core plugins that directly affect site building
@@ -23,6 +24,8 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     #gem 'jekyll-terser'
+    gem 'faraday-retry'
+    gem 'jekyll-terser', git: 'https://github.com/RobertoJBeltran/jekyll-terser.git'
 
     gem 'classifier-reborn'  # used for content categorization during the build
     gem "github-pages", group: :jekyll_plugins
