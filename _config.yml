@@ -21,7 +21,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 # url: https://alshedivat.github.io # the base hostname & protocol for your site
 # baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 url: https://rajeshkumarkarra.github.io # the base hostname & protocol for your site
-baseurl: #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: "" #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -199,9 +199,14 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+title: My GitHub Pages Site
+description: >-
+  A simple site using Jekyll and GitHub Pages.
 
+remote_theme: pages-themes/primer@v0.6.0
 # Plug-ins
 plugins:
+  - jekyll-remote-theme
   - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
@@ -219,6 +224,8 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-github-metadata
 
 # Sitemap settings
 defaults:
