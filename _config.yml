@@ -206,6 +206,7 @@ description: >-
 remote_theme: pages-themes/primer@v0.6.0
 # Plug-ins
 plugins:
+  - jekyll-toc
   - jekyll-remote-theme
   - jekyll-archives-v2
   - jekyll-email-protect
